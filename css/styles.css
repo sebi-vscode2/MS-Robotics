@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+.bxs-home-alt-2 .bxs-book-content{
+    font-size: larger;
+}
+.text {
+    font-family: 'Edu VIC WA NT Beginner', Regular400;
+    font-size: 30px;
+}
+
+
 * {
     position: relative;
 }
